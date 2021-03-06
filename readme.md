@@ -2,6 +2,10 @@
 
 Created a web-based system to collect maintenance request, IT trouble tickets, and other problem tickets for a 50 unit restaurant chain. Saved the company approximately $8k a year by moving them to this new system. Technologies used: php, html, css, javascript, and ajax. Integrated application as a WordPress plugin when we migrated our website to WordPress.
 
+##Date
+2010
+
+This is the initial code created for the project. I do not have access to the code that was ported to Wordpress and includes ajax calls. 
 
 ## Maintenance / Work order for stores
 
