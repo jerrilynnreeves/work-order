@@ -1,6 +1,6 @@
 # Work Order System
 
-Created a web-based system to collect maintenance request, IT trouble tickets, and other problem tickets for a 50 unit restaurant chain. Saved the company approximately $8k a year by moving them to this new system. Technologies used: php, html, css, javascript, and ajax. Integrated application as a WordPress plugin when we migrated our website to WordPress.
+Created a web-based system to collect maintenance request, IT trouble tickets, and other problem tickets for a 50 unit restaurant chain. Saved the company approximately $80k a year by moving them to this new system. Technologies used: php, html, css, javascript, and ajax. Integrated application as a WordPress plugin when we migrated our website to WordPress.
 
 ## Date
 2010
